@@ -1,2 +1,2 @@
-# Doctors-without-borders-project-volunteering
-Volunteering data science project for predicting doctors without borders churn 
+# ONG-project-volunteering
+Volunteering data science project for predicting an ONG's churn. Used Gradient Boosting Machine on H2O.
